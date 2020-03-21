@@ -6,5 +6,5 @@ Algorithm
 2. Take in player input.
 3. Place their input on the board.
 4. Check if the game is won,tied, lost, or ongoing.
-5. Repeat c and d until the game has been won or tied.
+5. Repeat 3 and 4 until the game has been won or tied.
 6. Ask if players want to play again.
